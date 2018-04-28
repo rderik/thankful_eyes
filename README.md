@@ -2,12 +2,16 @@
 
 Your eyes will be thankful.
 
+A fork of [thankful Eyes](https://github.com/jneen/thankful_eyes.vim) just to give it a little structure so it can be installed using [Vim-Plug](https://github.com/junegunn/vim-plug)
+
+## Dependencies
+* [CSApprox](https://github.com/godlygeek/csapprox)
 ## Installation
 
-* make sure you have CSApprox installed
-* put `thankful_eyes.vim` in `~/.vim/colors/` or `/usr/share/vim/vimXX/colors/`
-* put `colorscheme thankful_eyes` in your vimrc or gvimrc.
+* add in your `.vimrc`:
+  `Plug 'rderik/thankful_eyes'
+* run the `PlugInstall`
+* add in your `.vimrc`:
+  `colo thanful_eyes`
 
-Enjoy!
-
---Jay
+thanks to [Jnee](https://github.com/jneen) for the original colorscheme
