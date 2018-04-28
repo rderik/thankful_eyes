@@ -12,6 +12,6 @@ A fork of [thankful Eyes](https://github.com/jneen/thankful_eyes.vim) just to gi
   `Plug 'rderik/thankful_eyes'
 * run the `PlugInstall`
 * add in your `.vimrc`:
-  `colo thanful_eyes`
+  `colo thankful_eyes`
 
 thanks to [Jnee](https://github.com/jneen) for the original colorscheme
